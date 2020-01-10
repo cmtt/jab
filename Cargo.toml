@@ -1,0 +1,9 @@
+[package]
+name = "jab"
+version = "0.0.0"
+authors = ["Matthias Thoemmes <thoemmes@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+dynasmrt = "0.5.2"
+dynasm = "0.5.2"
